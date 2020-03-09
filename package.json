@@ -1,0 +1,25 @@
+{
+  "name": "yoyopizzabot",
+  "version": "1.0.0",
+  "description": "a chatbot for yoyo pizza - an assignment for yellow messanger interview job",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaikhsdf/chatbot.git"
+  },
+  "author": "sadaf shaikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaikhsdf/chatbot/issues"
+  },
+  "homepage": "https://github.com/shaikhsdf/chatbot#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dialogflow": "^1.2.0",
+    "express": "^4.17.1",
+    "uuid": "^7.0.2"
+  }
+}
